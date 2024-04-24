@@ -5,7 +5,8 @@
       "bundler": "metro"
     },
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ],
     "name": "React_Native_Jobs",
     "slug": "React_Native_Jobs"
